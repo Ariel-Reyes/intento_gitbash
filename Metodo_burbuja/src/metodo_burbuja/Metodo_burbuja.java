@@ -115,6 +115,8 @@ public class Metodo_burbuja {
             
         }
 
+	System.out.println("ARIEL ES UN PUTO");
+
     }
 
 }
